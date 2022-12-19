@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/goddinekService/static/css/main.c6a74c2e.css",
+    "main.js": "/goddinekService/static/js/main.0a10476a.js",
+    "static/media/remixicon.svg?t=1590207869815": "/goddinekService/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/goddinekService/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/goddinekService/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/ava-1.jpg": "/goddinekService/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/goddinekService/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/goddinekService/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/goddinekService/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/goddinekService/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/slider-2.jpg": "/goddinekService/static/media/slider-2.bacd0a4771c9bd5e6300.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/goddinekService/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/2.png": "/goddinekService/static/media/2.b1290457d5f9eb6eb002.png",
+    "static/media/drive.jpg": "/goddinekService/static/media/drive.966475eeea458b97830c.jpg",
+    "static/media/slider-3.jpg": "/goddinekService/static/media/slider-3.fdd018a5253ef658e529.jpg",
+    "static/media/slider-1.jpg": "/goddinekService/static/media/slider-1.09b9469a9db1aa07168e.jpg",
+    "static/media/tech.png": "/goddinekService/static/media/tech.5e26bb9a4a1596468f31.png",
+    "static/media/inverter.png": "/goddinekService/static/media/inverter.2652cc34e34e912dd3ec.png",
+    "static/media/blog-2.jpg": "/goddinekService/static/media/blog-2.3ce988672f3e0aa48e6b.jpg",
+    "static/media/blog-3.jpg": "/goddinekService/static/media/blog-3.7f99206f8d292fa1fcc9.jpg",
+    "static/media/4.png": "/goddinekService/static/media/4.793f887a341e632fd52f.png",
+    "static/media/blog-1.jpg": "/goddinekService/static/media/blog-1.4ed1c65d2199464cddff.jpg",
+    "static/media/5.png": "/goddinekService/static/media/5.8918b9a4f9146e3f8354.png",
+    "static/media/1.png": "/goddinekService/static/media/1.2ad5bdc7bf195b0a39fd.png",
+    "static/media/slick.svg": "/goddinekService/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/goddinekService/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/goddinekService/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/goddinekService/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/goddinekService/index.html",
+    "main.c6a74c2e.css.map": "/goddinekService/static/css/main.c6a74c2e.css.map",
+    "main.0a10476a.js.map": "/goddinekService/static/js/main.0a10476a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a74c2e.css",
+    "static/js/main.0a10476a.js"
+  ]
+}
